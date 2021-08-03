@@ -1,2 +1,3 @@
 # Human-Activity-Recognition
-Human Activity Recognition Using Machine Learning &amp; Deep Learning
+
+Hi I made this mini project using Machine Learning &amp; Deep Learning
